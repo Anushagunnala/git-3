@@ -1,4 +1,4 @@
-let num=5;
+let num=10;
 
 let count=0;
 
